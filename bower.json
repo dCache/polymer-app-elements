@@ -5,7 +5,7 @@
   "main": "polymer-app-elements.html",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dCacheElements/polymer-app-elements.git"
+    "url": "git://github.com/dCache/polymer-app-elements.git"
   },
   "dependencies": {
     "app-layout": "PolymerElements/app-layout#2.0.1",
